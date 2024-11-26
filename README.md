@@ -10,6 +10,10 @@ It is a simple mobile application that offers basic AI tools to demonstrate Andr
     <td><img src="images/signup.png"/></td>
   </tr>
   <tr>
+    <td><img src="images/home.png"/></td>
+    <td><img src="images/account.png"/></td>
+  </tr>
+  <tr>
     <td><img src="images/img_to_txt.png"/></td>
     <td><img src="images/txt_to_img.png"/></td>
   </tr>
