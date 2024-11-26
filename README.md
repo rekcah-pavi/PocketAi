@@ -3,6 +3,10 @@ It is a simple mobile application that offers basic AI tools to demonstrate Andr
 
 
 ## Preview
+
+<details>
+  <summary>Show</summary>
+  
 *Demo Apk:* https://github.com/rekcah-pavi/PocketAi/releases/download/v1.0.0/app-release.apk
 
 <table>
@@ -50,7 +54,8 @@ It is a simple mobile application that offers basic AI tools to demonstrate Andr
      CLOUDFLARE_ACCOUNT_ID = ""
      CLOUDFLARE_API = ""
      ```
-     
+</details>
+
 ## Technologies Used
   - Java
   - Firebase
