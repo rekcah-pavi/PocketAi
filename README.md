@@ -3,6 +3,7 @@ It is a simple mobile application that offers basic AI tools to demonstrate Andr
 
 
 ## Preview
+*Demo Apk:* https://github.com/rekcah-pavi/PocketAi/releases/download/v1.0.0/app-release.apk
 
 <table>
   <tr>
